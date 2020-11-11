@@ -1,6 +1,3 @@
-# my-new-AI-project
-Building an AI-course project
-
 # Comparing food recipes for identifying unique ones 
 
 Final project for the Building AI course
