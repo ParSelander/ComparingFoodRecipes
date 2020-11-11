@@ -1,7 +1,5 @@
 # Comparing food recipes for identifying unique ones 
 
-Final project for the Building AI course
-
 ## Summary
 
 Compare recipes and group similar ones together to make it easier to find interesting alternative dishes to cook.
