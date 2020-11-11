@@ -25,9 +25,12 @@ In it you can search för recipes and/or upload your own for storage / to be ana
 ## Data sources and AI methods
 I am going to use a document store of pdf recipies.
 All documents are analyzed and all text is stored in a SQL server.
+I will use the methods I learned in the course to look at what and how I can group dishes.
 
 ## Challenges
+To start with, learn Python.
 
 ## What next?
-
+Writing a web application.
 ## Acknowledgments
+I'd like to thank Reaktor, University of Helsinki and everyone else who have been a part in making both Elements of AI and Building AI a reality.
